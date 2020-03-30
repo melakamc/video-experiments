@@ -1,0 +1,22 @@
+PODS:
+  - NextLevel (0.14.4)
+
+DEPENDENCIES:
+  - NextLevel (from `https://github.com/NextLevel/NextLevel.git`, branch `swift4.2`)
+
+EXTERNAL SOURCES:
+  NextLevel:
+    :branch: swift4.2
+    :git: https://github.com/NextLevel/NextLevel.git
+
+CHECKOUT OPTIONS:
+  NextLevel:
+    :commit: c5e2fec82012633cb5e132f85eb31a916bd6839d
+    :git: https://github.com/NextLevel/NextLevel.git
+
+SPEC CHECKSUMS:
+  NextLevel: b4f479fd497f5e9fc63f36511910862c1aac072b
+
+PODFILE CHECKSUM: 0aba93a33e2a67c108ee035715dc3535dd4ca06a
+
+COCOAPODS: 1.8.4
